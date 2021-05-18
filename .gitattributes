@@ -1,0 +1,16 @@
+*.sln   -text
+*.*proj text=auto
+
+*.cs    text=auto diff=csharp
+*.fx    text=auto
+
+*.tmx   -text
+
+*.ico   binary
+*.xnb   binary
+
+*.dll   binary
+*.dylib binary
+*.exe   binary
+*.so.0  binary
+*.so.1  binary
