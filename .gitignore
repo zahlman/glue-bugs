@@ -53,3 +53,4 @@ glue_bugs/bin/
 glue_bugs/glue_bugs/obj/
 glue_bugs/obj/
 glue_bugs/glue_bugsContent/obj/
+*.Generated.Event.cs
